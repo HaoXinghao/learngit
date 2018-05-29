@@ -5,3 +5,4 @@ GIT tracks changes of files.
 git push origin master
 
 git test dev branch.
+Creating a new branch is quick & simple.
